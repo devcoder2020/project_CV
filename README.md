@@ -8,7 +8,7 @@ Email: LeeHaynes2019@yandex.com
 
 Website: http://www.devcoder.me.uk/
 
-Instagram: junior_web_developer_2020
+Instagram: https://www.instagram.com/junior_web_developer_2020/
 
 Devcoder Youtube: https://www.youtube.com/channel/UCXqnASrfdoRlyt82YR7n7pQ?view_as=subscriber
 
